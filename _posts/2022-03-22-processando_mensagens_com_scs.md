@@ -12,4 +12,4 @@ tags:
 
 > Clique [aqui][1] para visualizar os slides da apresentação
 
-[1]:{{ site.url }}/processando_mensagens_com_scs.pdf
+[1]:{{ site.url }}/presentations/processando_mensagens_com_scs.pdf

@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Software Engineering Blog
+title: Blog sobre Engenharia de Software
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  In this blog I share my experiences as a Software Engineer.
+  Blog onde compartilho materiais das apresentações sobre programação que realizo
 twitter_username: henriquels25
 github_username: henriquels25
 minimal_mistakes_skin: default

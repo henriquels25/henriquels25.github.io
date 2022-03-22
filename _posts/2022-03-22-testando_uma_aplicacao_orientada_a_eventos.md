@@ -13,4 +13,4 @@ tags:
 
 > Clique [aqui][1] para visualizar os slides da apresentação
 
-[1]:{{ site.url }}/testando_aplicacao_orientada_a_eventos.pdf
+[1]:{{ site.url }}/presentations/testando_aplicacao_orientada_a_eventos.pdf
