@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Henrique Luis Schmidt"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "I am a software engineer who is passionate about writing clean code which is easy to read, test, and that works."
+  bio    : "Sou um desenvolvedor de software que gosta de escrever código limpo, fácil de ler, testar e que funciona. Gosto de trabalhar com práticas ágeis, especialmente com Scrum e XP. Sou bacharel em Ciência da Computação e tenho mais de 10 anos de experiência em desenvolvimento de software."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
