@@ -111,3 +111,9 @@ tag_archive:
   path: /tags/
 
 site.locale: pt-BR
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-22X82KG9QM"
+    anonymize_ip: true # default
